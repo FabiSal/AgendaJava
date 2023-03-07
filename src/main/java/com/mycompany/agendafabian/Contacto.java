@@ -12,6 +12,7 @@ public class Contacto {
         this.telefono = telefono;
     }
 
+    /*AERHAQERTHAQERTHEDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD*/
     //constructor auxiliar
     public Contacto(String nombre) {
         this.nombre = nombre;
