@@ -5,7 +5,6 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 
-/*Esta es la agenda de fabian salinas // este comentario es para probar el control de versiones de githud, nada mas*/
 /**
  *
  * @author matal
@@ -88,7 +87,6 @@ public class NewMain {
                 System.out.println("Debes insertar un numero");
                 entrada.nextInt();
                 
-                System.out.println("esto es solo para probar , es nuevo , altera todo el code ");
             }
       
         }
