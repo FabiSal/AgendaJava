@@ -61,6 +61,7 @@ public class NewMain {
                         System.out.println("Escribe un nombre del contacto");
                         nombre = entrada.next();
                         //auxiliar 
+                        /*aerhaerfb adfbafnbaerbaerhnbaerhnarehaRHAQrhgRHAwerhgWERHrh*/
                         c = new Contacto(nombre, telefono);                       
                         agendaTelefonico.ExisteContacto(c);                     
                         if (agendaTelefonico.EliminarContacto(nombre)) {
