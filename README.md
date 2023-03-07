@@ -1,5 +1,5 @@
 # AgendaJava
 Programa de la agenda de Fabian
-Esto es el Primer README
-sin singun control de version.
+ Por favor no Despotricar sobre mi codigo
+          *soy sensible y humano al igual que todos*
 
